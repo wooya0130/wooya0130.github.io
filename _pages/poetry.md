@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: post
 title: "Poetry"
 category: poetry
 permalink: /daily-life/poetry/
