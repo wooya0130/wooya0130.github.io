@@ -291,24 +291,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# Navigation
-header_pages:
-  - index.md
-  - about.md
-  - research.md
-  - daily-life.md
-  - contact.md
-
-# Navigation bar
-nav:
-  - text: "Home"
-    url: "/"
-  - text: "About Me"
-    url: "/about"
-  - text: "Study"
-    url: "/study"
-  - text: "Daily Life"
-    url: "/daily-life"
-  - text: "Contact"
-    url: "/contact"
