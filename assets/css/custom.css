@@ -1,5 +1,14 @@
 /* 커스텀 리스트 스타일 */
-ul.custom-list {
+/* Custom Author Profile */
+.author-profile__image img {
+  width: 150px;  /* 원하는 크기로 설정 */
+  height: 150px; /* 원하는 크기로 설정 */
+  border-radius: 0; /* 둥글지 않게 네모로 설정 */
+  object-fit: cover;  /* 이미지가 프레임에 맞게 조정되도록 설정 */
+}
+
+
+/* ul.custom-list {
   list-style: none; /* 기본 불릿 제거 */
   padding: 0;
   margin: 0;
@@ -31,4 +40,4 @@ ul.custom-list li a {
 ul.custom-list li a:hover {
   text-decoration: underline; /* 링크 호버 시 밑줄 */
   color: #2c3e50; /* 호버 시 색상 변경 */
-}
+} */
