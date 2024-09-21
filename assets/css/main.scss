@@ -8,30 +8,30 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.site-navigation {
-    text-align: center; /* 네비게이션 바를 중앙 정렬 */
-    margin-bottom: 20px;
-  }
+// .site-navigation {
+//     text-align: center; /* 네비게이션 바를 중앙 정렬 */
+//     margin-bottom: 20px;
+//   }
   
-  .site-navigation ul.nav-menu {
-    list-style: none; /* 기본 리스트 스타일 제거 */
-    padding: 0;
-    margin: 0;
-    display: flex; /* 가로 정렬 */
-    justify-content: center; /* 중앙 정렬 */
-  }
+//   .site-navigation ul.nav-menu {
+//     list-style: none; /* 기본 리스트 스타일 제거 */
+//     padding: 0;
+//     margin: 0;
+//     display: flex; /* 가로 정렬 */
+//     justify-content: center; /* 중앙 정렬 */
+//   }
   
-  .site-navigation ul.nav-menu li.nav-item {
-    margin: 0 15px; /* 각 항목 사이에 여백 추가 */
-  }
+//   .site-navigation ul.nav-menu li.nav-item {
+//     margin: 0 15px; /* 각 항목 사이에 여백 추가 */
+//   }
   
-  .site-navigation ul.nav-menu li.nav-item a {
-    text-decoration: none;
-    font-size: 18px;
-    color: #00bcd4; /* 링크 색상 */
-  }
+//   .site-navigation ul.nav-menu li.nav-item a {
+//     text-decoration: none;
+//     font-size: 18px;
+//     color: #00bcd4; /* 링크 색상 */
+//   }
   
-  .site-navigation ul.nav-menu li.nav-item a:hover {
-    color: #0097a7; /* 마우스를 올렸을 때의 색상 */
-  }
+//   .site-navigation ul.nav-menu li.nav-item a:hover {
+//     color: #0097a7; /* 마우스를 올렸을 때의 색상 */
+//   }
 7
