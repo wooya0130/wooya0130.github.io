@@ -4,4 +4,4 @@ title: "Research"
 permalink: /research/
 ---
 
-I am 
+My research area is robotics and AI.
