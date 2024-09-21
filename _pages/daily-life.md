@@ -4,8 +4,7 @@ title: "Daily Life"
 permalink: /daily-life/
 ---
 
-I’ll be showing you all aspects of my daily life, hobbies, and fascinating experiences.
-
+I’ll be showing you all aspects of my daily life, hobbies, and fascinating experiences. <br>
 나의 일상, 취미, 흥미로운 일들을 모두 보여줄께.
 
 My life, hobbies 
