@@ -109,11 +109,11 @@ author:
   avatar           : "/assets/images/my-photo-0.jpg"
   bio              : "I am a researcher focused on robotics, especially in motion control and AI."
   location         : "Republic of Korea"
-  email            : "wooya0130@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:wooya0130@gmail.com"
+      url: "mailto:wooya0130@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wooya0130"
