@@ -34,3 +34,40 @@ search: false
   .site-navigation ul.nav-menu li.nav-item a:hover {
     color: #0097a7; /* 마우스를 올렸을 때의 색상 */
   }
+
+/* Custom Author Profile */
+.custom-author-profile {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.custom-author__avatar {
+  margin-bottom: 15px;
+}
+
+.custom-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 5px;  /* 네모나게 표시 */
+}
+
+.custom-author__name {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.custom-author__bio {
+  font-size: 1em;
+  margin-top: 10px;
+}
+
+.custom-author__urls li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.custom-author__urls li a {
+  color: #333;
+}
