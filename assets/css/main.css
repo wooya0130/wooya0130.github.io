@@ -1,0 +1,7 @@
+/* Custom Author Profile */
+.author-profile__image img {
+  width: 150px;  /* 원하는 크기로 설정 */
+  height: 150px; /* 원하는 크기로 설정 */
+  border-radius: 0; /* 둥글지 않게 네모로 설정 */
+  object-fit: cover;  /* 이미지가 프레임에 맞게 조정되도록 설정 */
+}
