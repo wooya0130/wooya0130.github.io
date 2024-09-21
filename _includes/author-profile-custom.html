@@ -2,7 +2,9 @@
   {% if author.avatar %}
     <div class="custom-author__avatar">
       <a href="{{ author.home | default: '/' | absolute_url }}">
-        <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="custom-photo">
+        <a href="{{ author.avatar | relative_url }}" target="_blank">
+          <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" class="author-profile__image">
+        </a>
       </a>
     </div>
   {% endif %}
