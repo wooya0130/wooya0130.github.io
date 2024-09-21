@@ -34,37 +34,3 @@ search: false
   .site-navigation ul.nav-menu li.nav-item a:hover {
     color: #0097a7; /* 마우스를 올렸을 때의 색상 */
   }
-
-/* 커스텀 리스트 스타일 */
-ul.custom-list {
-  list-style: none; /* 기본 점을 없애줌 */
-  padding: 0;
-  margin: 0;
-}
-
-ul.custom-list li {
-  margin-bottom: 10px;
-  position: relative;
-  padding-left: 20px; /* 아이콘을 위한 공간 확보 */
-}
-
-ul.custom-list li::before {
-  content: "•"; /* 원 대신 다른 기호나 아이콘을 사용할 수 있음 */
-  position: absolute;
-  left: 0;
-  top: 0;
-  color: #3498db; /* 아이콘 색상 */
-  font-size: 20px; /* 아이콘 크기 */
-  line-height: 1.2;
-}
-
-/* 링크 스타일링 */
-ul.custom-list li a {
-  text-decoration: none;
-  color: #3498db; /* 링크 색상 */
-}
-
-ul.custom-list li a:hover {
-  text-decoration: underline;
-  color: #2c3e50; /* 링크 hover 시 색상 변경 */
-}
