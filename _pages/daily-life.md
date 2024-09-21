@@ -6,5 +6,5 @@ permalink: /daily-life/
 
 My life, hobbies etc.
 
-### 카테고리
+### Category
 - [Poetry](/daily-life/poetry/)
