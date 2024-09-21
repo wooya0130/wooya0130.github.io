@@ -4,7 +4,13 @@ title: "Daily Life"
 permalink: /daily-life/
 ---
 
-My life, hobbies etc.
+I’ll be showing you all aspects of my daily life, hobbies, and fascinating experiences.
+나의 일상, 취미, 흥미로운 일들을 모두 보여줄께.
+
+My life, hobbies 
 
 ### Category
-- [Poetry](/daily-life/poetry/)
+<ul class="custom-list">
+  <li><a href="/daily-life/poetry/">Poetry</a></li>
+  <li><a href="/daily-life/travel/">Travel</a></li>
+</ul>
