@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Stduy"
+title: "Study"
 permalink: /study/
 ---
 
-My study, research.
+I want to study everything!
