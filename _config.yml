@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Wooya"
-  avatar           : "/assets/images/your-photo-0.jpg"
+  avatar           : "/assets/images/my-photo-0.jpg"
   bio              : "I am a researcher focused on robotics, especially in motion control and AI."
   location         : "Republic of Korea"
   email            : "wooya0130@gmail.com"
