@@ -292,6 +292,14 @@ defaults:
       share: true
       related: true
 
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - daily-life.md
+  - contact.md
+
 # Navigation bar
 nav:
   - text: "Home"
