@@ -20,6 +20,9 @@ main:
   
   - title: "Research"
     url: /research/
+
+  - title: "Study"
+    url: /study/
   
   - title: "Daily Life"
     url: /daily-life/
