@@ -12,7 +12,7 @@ ul.custom-list li {
 }
 
 ul.custom-list li::before {
-  content: "\f0a9"; /* FontAwesome 아이콘 코드 사용 */
+  content:  "\f56b"; /* FontAwesome 아이콘 코드 사용 */
   font-family: "Font Awesome 5 Free"; /* 아이콘 폰트 적용 */
   font-weight: 900; /* 아이콘 두께 */
   position: absolute;
