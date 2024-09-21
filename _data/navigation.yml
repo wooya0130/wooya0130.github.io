@@ -12,8 +12,8 @@ main:
   #   url: /sitemap/
 
 
-  - title: "Home"
-    url: https://wooya0130.github.io/
+  # - title: "Home"
+  #   url: https://wooya0130.github.io/
 
   - title: "About Me"
     url: /about/
