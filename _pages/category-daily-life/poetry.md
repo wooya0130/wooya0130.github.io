@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: archive
 title: "Poetry"
-category: poetry
-permalink: /daily-life/poetry/
+permalink: /catecory-daily-life/poetry/
 ---
 
 This page contains all posts related to poetry. <br>
