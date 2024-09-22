@@ -8,8 +8,8 @@ permalink: /daily-life/
   {% include sidebar.html %}
 
   <!-- 본문 상단에 추가할 글 -->
-  <p>I’ll be showing you all aspects of my daily life, hobbies, and fascinating experiences.</p>
-  <p>나의 일상, 취미, 흥미로운 일들을 모두 보여줄께.</p>
+  <p></p>
+
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="page__inner-wrap">
