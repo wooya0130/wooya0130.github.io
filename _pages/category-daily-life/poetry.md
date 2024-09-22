@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: single
 title: Poetry
 category: poetry
 permalink: /category-daily-life/poetry/
