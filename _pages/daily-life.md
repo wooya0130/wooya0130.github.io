@@ -26,7 +26,7 @@ permalink: /daily-life/
         <h2>Category</h2>
         <ul>
           <li><a href="/categories/poetry/">Poetry</a></li>
-          <li><a href="/categories/travel/">Travel</a></li>
+         
         </ul>
       </section>
       
