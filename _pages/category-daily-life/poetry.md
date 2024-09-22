@@ -2,7 +2,7 @@
 layout: category
 title: Poetry
 category: poetry
-permalink: /categories/poetry/
+permalink: /category-daily-life/poetry/
 ---
 
 This page contains all posts related to poetry. <br>
