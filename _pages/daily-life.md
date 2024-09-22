@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Daily Life"
 permalink: /daily-life/
 ---
