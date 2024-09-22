@@ -292,6 +292,34 @@ defaults:
       share: true
       related: true
 
+  # 상위 카테고리: Research
+  - scope:
+      path: ""
+      type: "posts"
+      values:
+        category: research
+        subcategories:
+          - paper
+          - project
+  # 상위 카테고리: Study
+  - scope:
+      path: ""
+      type: "posts"
+      values:
+        category: study
+        subcategories:
+          - algorithm
+          - robotics
+  # 상위 카테고리: Daily Life
+  - scope:
+      path: ""
+      type: "posts"
+      values:
+        category: daily-life
+        subcategories:
+          - poetry
+          - travel
+
 header_pages:
   - index.md
   - about.md
