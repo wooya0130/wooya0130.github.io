@@ -25,7 +25,7 @@ permalink: /daily-life/
         <!-- 카테고리 목록 -->
         <h2>Category</h2>
         <ul>
-          <li><a href="/categories/poetry/">Poetry</a></li>
+          <li><a href="/category-daily-life/poetry/">Poetry</a></li>
          
         </ul>
       </section>
