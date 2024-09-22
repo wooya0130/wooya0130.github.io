@@ -11,4 +11,5 @@ I’ll be showing you all aspects of my daily life, hobbies, and fascinating exp
 <ul class="custom-list">
   <li><a href="/daily-life/poetry/">Poetry</a></li>
 <!--   <li><a href="/daily-life/travel/">Travel</a></li> -->
+      <!-- 필요에 따라 다른 카테고리 추가 -->
 </ul>
