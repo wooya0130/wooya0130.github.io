@@ -291,7 +291,7 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar main : true
+      sidebar_main : true
   # 상위 카테고리: Research
   - scope:
       path: ""
