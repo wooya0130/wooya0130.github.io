@@ -291,7 +291,8 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar_main : true
+      sidebar:
+        enabled: true  # 기본적으로 사이드바 활성화
   # 상위 카테고리: Research
   - scope:
       path: ""
