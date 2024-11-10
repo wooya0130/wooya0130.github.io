@@ -4,7 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
 👋 **Hello! I'm Jaewoo Ahn**  
 I am currently a **Ph.D. candidate** in the **Control and Mechatronics Lab** at **Korea University**, under the supervision of Professor Myotaek Lim. 
 In addition, I am a student researcher at the **Humanoid Robotics Lab** at the **Korea Institute of Science and Technology (KIST)**, where I am mentored by **Dr. Yonghwan Oh**, a Principal Research Scientist.
