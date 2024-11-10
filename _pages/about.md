@@ -28,6 +28,6 @@ My research focuses on **robot control**, with a particular emphasis on **optima
 ## Contact
 - 📧 Email: eoxksk778899@gmail.com
 - 🌐 [GitHub](https://github.com/wooya0130)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/jaewoo-an-2666992b6)
 
 📝 For more detailed information on my academic and professional background, please visit my [CV page](./cv/).
